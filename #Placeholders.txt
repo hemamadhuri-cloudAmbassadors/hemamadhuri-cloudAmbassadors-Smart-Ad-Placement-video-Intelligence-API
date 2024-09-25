@@ -1,9 +1,0 @@
-#Placeholders
-
-gcs_uri = "gs://YOUR-BUCKET/YOUR-VIDEO.mp4" 
-output_uri = "gs://YOUR-BUCKET/output - {}.json".format(time.time())
-parsed_output_uri = "gs://YOUR-BUCKET/parsed_output - {}.txt".format(time.time())
-
-api_key = "YOUR_API_KEY"
-
-url = "YOUR_GEMINI_API_ENDPOINT_URL"
