@@ -1,0 +1,1051 @@
+Object: bridge
+Confidence: 0.843856
+Duration: 6.006 seconds
+Frames:
+  Time: 54.429375 seconds
+  Bounding Box: left = 0.006243, top = 0.294768, right = 0.956051, bottom = 0.885936
+  Time: 54.554500 seconds
+  Bounding Box: left = 0.007030, top = 0.293058, right = 0.957030, bottom = 0.884724
+  Time: 54.679625 seconds
+  Bounding Box: left = 0.013138, top = 0.296642, right = 0.955439, bottom = 0.794880
+  Time: 54.804750 seconds
+  Bounding Box: left = 0.013631, top = 0.268111, right = 0.955826, bottom = 0.766696
+  Time: 54.929875 seconds
+  Bounding Box: left = 0.002697, top = 0.282853, right = 0.977059, bottom = 0.783880
+  Time: 55.055000 seconds
+  Bounding Box: left = 0.002620, top = 0.273444, right = 0.976849, bottom = 0.774808
+  Time: 55.180125 seconds
+  Bounding Box: left = -0.000153, top = 0.284420, right = 0.984634, bottom = 0.836681
+  Time: 55.305250 seconds
+  Bounding Box: left = 0.008249, top = 0.297296, right = 0.993380, bottom = 0.850038
+  Time: 55.430375 seconds
+  Bounding Box: left = 0.017370, top = 0.316269, right = 0.969957, bottom = 0.820529
+  Time: 55.555500 seconds
+  Bounding Box: left = 0.003612, top = 0.311547, right = 0.972614, bottom = 0.816778
+  Time: 55.680625 seconds
+  Bounding Box: left = -0.001019, top = 0.308115, right = 0.975677, bottom = 0.842242
+  Time: 55.805750 seconds
+  Bounding Box: left = -0.002022, top = 0.317014, right = 0.984104, bottom = 0.847335
+  Time: 55.930875 seconds
+  Bounding Box: left = 0.001018, top = 0.320358, right = 0.980098, bottom = 0.856559
+  Time: 56.056000 seconds
+  Bounding Box: left = -0.000713, top = 0.322060, right = 0.987074, bottom = 0.863682
+  Time: 56.181125 seconds
+  Bounding Box: left = 0.000742, top = 0.322742, right = 0.985529, bottom = 0.875582
+  Time: 56.306250 seconds
+  Bounding Box: left = 0.000980, top = 0.324718, right = 0.983278, bottom = 0.881286
+  Time: 56.431375 seconds
+  Bounding Box: left = 0.000292, top = 0.322553, right = 0.982905, bottom = 0.889620
+  Time: 56.556500 seconds
+  Bounding Box: left = 0.002951, top = 0.320926, right = 0.977341, bottom = 0.906474
+  Time: 56.681625 seconds
+  Bounding Box: left = -0.000116, top = 0.321512, right = 0.979793, bottom = 0.907151
+  Time: 56.806750 seconds
+  Bounding Box: left = -0.000218, top = 0.319931, right = 0.981063, bottom = 0.909582
+  Time: 56.931875 seconds
+  Bounding Box: left = 0.000828, top = 0.317955, right = 0.977269, bottom = 0.913219
+  Time: 57.057000 seconds
+  Bounding Box: left = 0.002286, top = 0.321009, right = 0.977492, bottom = 0.908457
+  Time: 57.182125 seconds
+  Bounding Box: left = 0.001787, top = 0.322861, right = 0.978898, bottom = 0.911031
+  Time: 57.307250 seconds
+  Bounding Box: left = -0.000135, top = 0.324905, right = 0.983520, bottom = 0.915564
+  Time: 57.432375 seconds
+  Bounding Box: left = 0.001017, top = 0.324829, right = 0.980661, bottom = 0.927208
+  Time: 57.557500 seconds
+  Bounding Box: left = 0.000326, top = 0.327792, right = 0.980405, bottom = 0.931912
+  Time: 57.682625 seconds
+  Bounding Box: left = -0.001448, top = 0.326535, right = 0.987292, bottom = 0.936115
+  Time: 57.807750 seconds
+  Bounding Box: left = 0.000123, top = 0.335655, right = 0.987250, bottom = 0.930755
+  Time: 57.932875 seconds
+  Bounding Box: left = -0.000116, top = 0.331716, right = 0.990038, bottom = 0.925893
+  Time: 58.058000 seconds
+  Bounding Box: left = 0.002509, top = 0.329475, right = 0.980368, bottom = 0.937002
+  Time: 58.183125 seconds
+  Bounding Box: left = 0.000734, top = 0.338423, right = 0.977669, bottom = 0.938102
+  Time: 58.308250 seconds
+  Bounding Box: left = -0.002157, top = 0.339833, right = 0.985478, bottom = 0.922576
+  Time: 58.433375 seconds
+  Bounding Box: left = -0.000018, top = 0.336341, right = 0.983432, bottom = 0.941226
+  Time: 58.558500 seconds
+  Bounding Box: left = 0.003230, top = 0.343413, right = 0.976871, bottom = 0.941110
+  Time: 58.683625 seconds
+  Bounding Box: left = 0.004060, top = 0.344594, right = 0.972963, bottom = 0.946885
+  Time: 58.808750 seconds
+  Bounding Box: left = 0.003109, top = 0.350864, right = 0.972162, bottom = 0.935740
+  Time: 58.933875 seconds
+  Bounding Box: left = 0.005467, top = 0.354297, right = 0.969389, bottom = 0.932419
+  Time: 59.059000 seconds
+  Bounding Box: left = 0.001974, top = 0.349151, right = 0.966389, bottom = 0.946032
+  Time: 59.184125 seconds
+  Bounding Box: left = 0.003639, top = 0.355657, right = 0.966168, bottom = 0.958629
+  Time: 59.309250 seconds
+  Bounding Box: left = 0.003770, top = 0.358230, right = 0.968112, bottom = 0.972385
+  Time: 59.434375 seconds
+  Bounding Box: left = 0.001268, top = 0.358902, right = 0.968205, bottom = 0.978887
+  Time: 59.559500 seconds
+  Bounding Box: left = -0.000525, top = 0.361749, right = 0.971207, bottom = 0.985395
+  Time: 59.684625 seconds
+  Bounding Box: left = 0.002399, top = 0.355015, right = 0.973360, bottom = 0.997287
+  Time: 59.809750 seconds
+  Bounding Box: left = 0.003168, top = 0.364401, right = 0.975186, bottom = 0.997477
+  Time: 59.934875 seconds
+  Bounding Box: left = 0.003648, top = 0.365861, right = 0.976350, bottom = 1.000622
+  Time: 60.060000 seconds
+  Bounding Box: left = 0.003957, top = 0.366657, right = 0.976525, bottom = 1.000992
+  Time: 60.185125 seconds
+  Bounding Box: left = 0.001420, top = 0.374159, right = 0.976761, bottom = 0.991093
+  Time: 60.310250 seconds
+  Bounding Box: left = 0.000893, top = 0.371090, right = 0.976799, bottom = 0.993805
+  Time: 60.435375 seconds
+  Bounding Box: left = 0.000352, top = 0.380673, right = 0.975801, bottom = 0.987792
+
+Object: packaged goods
+Confidence: 0.638603
+Duration: 10.260250000000006 seconds
+Frames:
+  Time: 60.560500 seconds
+  Bounding Box: left = 0.832907, top = 0.732839, right = 0.997318, bottom = 0.821329
+  Time: 60.685625 seconds
+  Bounding Box: left = 0.832855, top = 0.733771, right = 0.997608, bottom = 0.821902
+  Time: 60.810750 seconds
+  Bounding Box: left = 0.835923, top = 0.732072, right = 0.995090, bottom = 0.820327
+  Time: 60.935875 seconds
+  Bounding Box: left = 0.836215, top = 0.732254, right = 0.994526, bottom = 0.820060
+  Time: 61.061000 seconds
+  Bounding Box: left = 0.833839, top = 0.732809, right = 0.997042, bottom = 0.821681
+  Time: 61.186125 seconds
+  Bounding Box: left = 0.833524, top = 0.733579, right = 0.996890, bottom = 0.821768
+  Time: 61.311250 seconds
+  Bounding Box: left = 0.833672, top = 0.733548, right = 0.996865, bottom = 0.822017
+  Time: 61.436375 seconds
+  Bounding Box: left = 0.833145, top = 0.733016, right = 0.996920, bottom = 0.822013
+  Time: 61.561500 seconds
+  Bounding Box: left = 0.832994, top = 0.733379, right = 0.996736, bottom = 0.821429
+  Time: 61.686625 seconds
+  Bounding Box: left = 0.835945, top = 0.732505, right = 0.994482, bottom = 0.820487
+  Time: 61.811750 seconds
+  Bounding Box: left = 0.836265, top = 0.731512, right = 0.995170, bottom = 0.820135
+  Time: 61.936875 seconds
+  Bounding Box: left = 0.832871, top = 0.732060, right = 0.997241, bottom = 0.820520
+  Time: 62.062000 seconds
+  Bounding Box: left = 0.832898, top = 0.733138, right = 0.996742, bottom = 0.820898
+  Time: 62.187125 seconds
+  Bounding Box: left = 0.835916, top = 0.732881, right = 0.994371, bottom = 0.820347
+  Time: 62.312250 seconds
+  Bounding Box: left = 0.836451, top = 0.732498, right = 0.993739, bottom = 0.819500
+  Time: 62.437375 seconds
+  Bounding Box: left = 0.837151, top = 0.732297, right = 0.993368, bottom = 0.819255
+  Time: 62.562500 seconds
+  Bounding Box: left = 0.836743, top = 0.732016, right = 0.993749, bottom = 0.819404
+  Time: 62.687625 seconds
+  Bounding Box: left = 0.837192, top = 0.732748, right = 0.992796, bottom = 0.818876
+  Time: 62.812750 seconds
+  Bounding Box: left = 0.836204, top = 0.732262, right = 0.993354, bottom = 0.819261
+  Time: 62.937875 seconds
+  Bounding Box: left = 0.837003, top = 0.732115, right = 0.992988, bottom = 0.819379
+  Time: 63.063000 seconds
+  Bounding Box: left = 0.837212, top = 0.732345, right = 0.993199, bottom = 0.819526
+  Time: 63.188125 seconds
+  Bounding Box: left = 0.836682, top = 0.731336, right = 0.993854, bottom = 0.820120
+  Time: 63.313250 seconds
+  Bounding Box: left = 0.836904, top = 0.731497, right = 0.993654, bottom = 0.819801
+  Time: 63.438375 seconds
+  Bounding Box: left = 0.837011, top = 0.731542, right = 0.993981, bottom = 0.819534
+  Time: 63.563500 seconds
+  Bounding Box: left = 0.837185, top = 0.731296, right = 0.993030, bottom = 0.819276
+  Time: 63.688625 seconds
+  Bounding Box: left = 0.836503, top = 0.731140, right = 0.993378, bottom = 0.818956
+  Time: 63.813750 seconds
+  Bounding Box: left = 0.836850, top = 0.731110, right = 0.993364, bottom = 0.818676
+  Time: 63.938875 seconds
+  Bounding Box: left = 0.836707, top = 0.731000, right = 0.993999, bottom = 0.818961
+  Time: 64.064000 seconds
+  Bounding Box: left = 0.837293, top = 0.730875, right = 0.994125, bottom = 0.818932
+  Time: 64.189125 seconds
+  Bounding Box: left = 0.837070, top = 0.731704, right = 0.994514, bottom = 0.818518
+  Time: 64.314250 seconds
+  Bounding Box: left = 0.836764, top = 0.732035, right = 0.994313, bottom = 0.818280
+  Time: 64.439375 seconds
+  Bounding Box: left = 0.837251, top = 0.732302, right = 0.993242, bottom = 0.818413
+  Time: 64.564500 seconds
+  Bounding Box: left = 0.838122, top = 0.732529, right = 0.992506, bottom = 0.818251
+  Time: 64.689625 seconds
+  Bounding Box: left = 0.837937, top = 0.732526, right = 0.992755, bottom = 0.818408
+  Time: 64.814750 seconds
+  Bounding Box: left = 0.837241, top = 0.733373, right = 0.993321, bottom = 0.818309
+  Time: 64.939875 seconds
+  Bounding Box: left = 0.836718, top = 0.733049, right = 0.993718, bottom = 0.818463
+  Time: 65.065000 seconds
+  Bounding Box: left = 0.837175, top = 0.733565, right = 0.993013, bottom = 0.818231
+  Time: 65.190125 seconds
+  Bounding Box: left = 0.837310, top = 0.732991, right = 0.992994, bottom = 0.818602
+  Time: 65.315250 seconds
+  Bounding Box: left = 0.837418, top = 0.733110, right = 0.993102, bottom = 0.818570
+  Time: 65.440375 seconds
+  Bounding Box: left = 0.836978, top = 0.733020, right = 0.994318, bottom = 0.818533
+  Time: 65.565500 seconds
+  Bounding Box: left = 0.836950, top = 0.733144, right = 0.994223, bottom = 0.818598
+  Time: 65.690625 seconds
+  Bounding Box: left = 0.836548, top = 0.732383, right = 0.995063, bottom = 0.818740
+  Time: 65.815750 seconds
+  Bounding Box: left = 0.837278, top = 0.732652, right = 0.993999, bottom = 0.818718
+  Time: 65.940875 seconds
+  Bounding Box: left = 0.836767, top = 0.733152, right = 0.993303, bottom = 0.818777
+  Time: 66.066000 seconds
+  Bounding Box: left = 0.834310, top = 0.729167, right = 0.996546, bottom = 0.820645
+  Time: 66.191125 seconds
+  Bounding Box: left = 0.831452, top = 0.728610, right = 0.999300, bottom = 0.821253
+  Time: 66.316250 seconds
+  Bounding Box: left = 0.834274, top = 0.729314, right = 0.996798, bottom = 0.819710
+  Time: 66.441375 seconds
+  Bounding Box: left = 0.834542, top = 0.729082, right = 0.996266, bottom = 0.819395
+  Time: 66.566500 seconds
+  Bounding Box: left = 0.834571, top = 0.728838, right = 0.996490, bottom = 0.819638
+  Time: 66.691625 seconds
+  Bounding Box: left = 0.835394, top = 0.729764, right = 0.996141, bottom = 0.819779
+  Time: 66.816750 seconds
+  Bounding Box: left = 0.835189, top = 0.729555, right = 0.997170, bottom = 0.819713
+  Time: 66.941875 seconds
+  Bounding Box: left = 0.835764, top = 0.728857, right = 0.997614, bottom = 0.820127
+  Time: 67.067000 seconds
+  Bounding Box: left = 0.835569, top = 0.728924, right = 0.998137, bottom = 0.820083
+  Time: 67.192125 seconds
+  Bounding Box: left = 0.835875, top = 0.728801, right = 0.998089, bottom = 0.820069
+  Time: 67.317250 seconds
+  Bounding Box: left = 0.835869, top = 0.728607, right = 0.997767, bottom = 0.820116
+  Time: 67.442375 seconds
+  Bounding Box: left = 0.835144, top = 0.728304, right = 0.997707, bottom = 0.820348
+  Time: 67.567500 seconds
+  Bounding Box: left = 0.835630, top = 0.728968, right = 0.996508, bottom = 0.820151
+  Time: 67.692625 seconds
+  Bounding Box: left = 0.834591, top = 0.729061, right = 0.997061, bottom = 0.820330
+  Time: 67.817750 seconds
+  Bounding Box: left = 0.834582, top = 0.728862, right = 0.996434, bottom = 0.820027
+  Time: 67.942875 seconds
+  Bounding Box: left = 0.835417, top = 0.729452, right = 0.995429, bottom = 0.819474
+  Time: 68.068000 seconds
+  Bounding Box: left = 0.835172, top = 0.728909, right = 0.996464, bottom = 0.819600
+  Time: 68.193125 seconds
+  Bounding Box: left = 0.835933, top = 0.729320, right = 0.996686, bottom = 0.819515
+  Time: 68.318250 seconds
+  Bounding Box: left = 0.836102, top = 0.729285, right = 0.996887, bottom = 0.819492
+  Time: 68.443375 seconds
+  Bounding Box: left = 0.835572, top = 0.729358, right = 0.997021, bottom = 0.819682
+  Time: 68.568500 seconds
+  Bounding Box: left = 0.835997, top = 0.729616, right = 0.996842, bottom = 0.819688
+  Time: 68.693625 seconds
+  Bounding Box: left = 0.832014, top = 0.729273, right = 0.999280, bottom = 0.821196
+  Time: 68.818750 seconds
+  Bounding Box: left = 0.831832, top = 0.729690, right = 0.998720, bottom = 0.821730
+  Time: 68.943875 seconds
+  Bounding Box: left = 0.832070, top = 0.729542, right = 0.998254, bottom = 0.821798
+  Time: 69.069000 seconds
+  Bounding Box: left = 0.836034, top = 0.730553, right = 0.995260, bottom = 0.820115
+  Time: 69.194125 seconds
+  Bounding Box: left = 0.836178, top = 0.730492, right = 0.996244, bottom = 0.819722
+  Time: 69.319250 seconds
+  Bounding Box: left = 0.836547, top = 0.730252, right = 0.996466, bottom = 0.819496
+  Time: 69.444375 seconds
+  Bounding Box: left = 0.836072, top = 0.729439, right = 0.997278, bottom = 0.819494
+  Time: 69.569500 seconds
+  Bounding Box: left = 0.835835, top = 0.728710, right = 0.998377, bottom = 0.818951
+  Time: 69.694625 seconds
+  Bounding Box: left = 0.835782, top = 0.728673, right = 0.998540, bottom = 0.818966
+  Time: 69.819750 seconds
+  Bounding Box: left = 0.836465, top = 0.729422, right = 0.997740, bottom = 0.818755
+  Time: 69.944875 seconds
+  Bounding Box: left = 0.836351, top = 0.729963, right = 0.997554, bottom = 0.818850
+  Time: 70.070000 seconds
+  Bounding Box: left = 0.836481, top = 0.730461, right = 0.997119, bottom = 0.818805
+  Time: 70.195125 seconds
+  Bounding Box: left = 0.836092, top = 0.730537, right = 0.997191, bottom = 0.818722
+  Time: 70.320250 seconds
+  Bounding Box: left = 0.835835, top = 0.730594, right = 0.996873, bottom = 0.818924
+  Time: 70.445375 seconds
+  Bounding Box: left = 0.835908, top = 0.731112, right = 0.996868, bottom = 0.818757
+  Time: 70.570500 seconds
+  Bounding Box: left = 0.836011, top = 0.730781, right = 0.996974, bottom = 0.818936
+  Time: 70.695625 seconds
+  Bounding Box: left = 0.836199, top = 0.730482, right = 0.997103, bottom = 0.819243
+  Time: 70.820750 seconds
+  Bounding Box: left = 0.836205, top = 0.730133, right = 0.997250, bottom = 0.819287
+
+Object: packaged goods
+Confidence: 0.714710
+Duration: 7.382374999999996 seconds
+Frames:
+  Time: 80.330250 seconds
+  Bounding Box: left = 0.509121, top = 0.000000, right = 0.640461, bottom = 0.136194
+  Time: 80.455375 seconds
+  Bounding Box: left = 0.509215, top = -0.000000, right = 0.640099, bottom = 0.135526
+  Time: 80.580500 seconds
+  Bounding Box: left = 0.509331, top = 0.000001, right = 0.640696, bottom = 0.135574
+  Time: 80.705625 seconds
+  Bounding Box: left = 0.507550, top = 0.000030, right = 0.641273, bottom = 0.135111
+  Time: 80.830750 seconds
+  Bounding Box: left = 0.507417, top = 0.000083, right = 0.640904, bottom = 0.134200
+  Time: 80.955875 seconds
+  Bounding Box: left = 0.507963, top = -0.000119, right = 0.640288, bottom = 0.134364
+  Time: 81.081000 seconds
+  Bounding Box: left = 0.508252, top = -0.000222, right = 0.640369, bottom = 0.134964
+  Time: 81.206125 seconds
+  Bounding Box: left = 0.508362, top = -0.000045, right = 0.640227, bottom = 0.134953
+  Time: 81.331250 seconds
+  Bounding Box: left = 0.508353, top = 0.000088, right = 0.640039, bottom = 0.134584
+  Time: 81.456375 seconds
+  Bounding Box: left = 0.508302, top = -0.000036, right = 0.639886, bottom = 0.134812
+  Time: 81.581500 seconds
+  Bounding Box: left = 0.509065, top = -0.000050, right = 0.639818, bottom = 0.135029
+  Time: 81.706625 seconds
+  Bounding Box: left = 0.510630, top = 0.000630, right = 0.639473, bottom = 0.133237
+  Time: 81.831750 seconds
+  Bounding Box: left = 0.509226, top = 0.000282, right = 0.640330, bottom = 0.133292
+  Time: 81.956875 seconds
+  Bounding Box: left = 0.507998, top = -0.000225, right = 0.640550, bottom = 0.134303
+  Time: 82.082000 seconds
+  Bounding Box: left = 0.507620, top = -0.000058, right = 0.640037, bottom = 0.134316
+  Time: 82.207125 seconds
+  Bounding Box: left = 0.507962, top = 0.000126, right = 0.639784, bottom = 0.133746
+  Time: 82.332250 seconds
+  Bounding Box: left = 0.509013, top = -0.000030, right = 0.639682, bottom = 0.133909
+  Time: 82.457375 seconds
+  Bounding Box: left = 0.508750, top = 0.000043, right = 0.639547, bottom = 0.133590
+  Time: 82.582500 seconds
+  Bounding Box: left = 0.508624, top = -0.000039, right = 0.639378, bottom = 0.133667
+  Time: 82.707625 seconds
+  Bounding Box: left = 0.508954, top = -0.000141, right = 0.639461, bottom = 0.134199
+  Time: 82.832750 seconds
+  Bounding Box: left = 0.508889, top = -0.000018, right = 0.639830, bottom = 0.134275
+  Time: 82.957875 seconds
+  Bounding Box: left = 0.509062, top = -0.000029, right = 0.639938, bottom = 0.134586
+  Time: 83.083000 seconds
+  Bounding Box: left = 0.510054, top = 0.000173, right = 0.639598, bottom = 0.133985
+  Time: 83.208125 seconds
+  Bounding Box: left = 0.510299, top = -0.000069, right = 0.639743, bottom = 0.134475
+  Time: 83.333250 seconds
+  Bounding Box: left = 0.510940, top = -0.000081, right = 0.639546, bottom = 0.134866
+  Time: 83.458375 seconds
+  Bounding Box: left = 0.511949, top = 0.000239, right = 0.640067, bottom = 0.133869
+  Time: 83.583500 seconds
+  Bounding Box: left = 0.512150, top = 0.000036, right = 0.640214, bottom = 0.133783
+  Time: 83.708625 seconds
+  Bounding Box: left = 0.513341, top = -0.000047, right = 0.639900, bottom = 0.133789
+  Time: 83.833750 seconds
+  Bounding Box: left = 0.512806, top = -0.000065, right = 0.639787, bottom = 0.133859
+  Time: 83.958875 seconds
+  Bounding Box: left = 0.511305, top = -0.000112, right = 0.640286, bottom = 0.134241
+  Time: 84.084000 seconds
+  Bounding Box: left = 0.510546, top = 0.000077, right = 0.640393, bottom = 0.133863
+  Time: 84.209125 seconds
+  Bounding Box: left = 0.511284, top = 0.000156, right = 0.639828, bottom = 0.133184
+  Time: 84.334250 seconds
+  Bounding Box: left = 0.510407, top = -0.000029, right = 0.639801, bottom = 0.133198
+  Time: 84.459375 seconds
+  Bounding Box: left = 0.510726, top = -0.000059, right = 0.639563, bottom = 0.133182
+  Time: 84.584500 seconds
+  Bounding Box: left = 0.510918, top = -0.000078, right = 0.639592, bottom = 0.133315
+  Time: 84.709625 seconds
+  Bounding Box: left = 0.510990, top = 0.000106, right = 0.639937, bottom = 0.132675
+  Time: 84.834750 seconds
+  Bounding Box: left = 0.512223, top = -0.000134, right = 0.639862, bottom = 0.133207
+  Time: 84.959875 seconds
+  Bounding Box: left = 0.513350, top = 0.000021, right = 0.639497, bottom = 0.132951
+  Time: 85.085000 seconds
+  Bounding Box: left = 0.513100, top = -0.000121, right = 0.639745, bottom = 0.133515
+  Time: 85.210125 seconds
+  Bounding Box: left = 0.512768, top = -0.000130, right = 0.639717, bottom = 0.134170
+  Time: 85.335250 seconds
+  Bounding Box: left = 0.513457, top = 0.000011, right = 0.639078, bottom = 0.134392
+  Time: 85.460375 seconds
+  Bounding Box: left = 0.511600, top = 0.000278, right = 0.640197, bottom = 0.133556
+  Time: 85.585500 seconds
+  Bounding Box: left = 0.510942, top = 0.000019, right = 0.640199, bottom = 0.133756
+  Time: 85.710625 seconds
+  Bounding Box: left = 0.511441, top = 0.000026, right = 0.639668, bottom = 0.133593
+  Time: 85.835750 seconds
+  Bounding Box: left = 0.510401, top = -0.000025, right = 0.639843, bottom = 0.133768
+  Time: 85.960875 seconds
+  Bounding Box: left = 0.510798, top = 0.000078, right = 0.639722, bottom = 0.133364
+  Time: 86.086000 seconds
+  Bounding Box: left = 0.510429, top = 0.000175, right = 0.639625, bottom = 0.133269
+  Time: 86.211125 seconds
+  Bounding Box: left = 0.510525, top = 0.000140, right = 0.639461, bottom = 0.133376
+  Time: 86.336250 seconds
+  Bounding Box: left = 0.510023, top = 0.000135, right = 0.639990, bottom = 0.133313
+  Time: 86.461375 seconds
+  Bounding Box: left = 0.510182, top = -0.000064, right = 0.640081, bottom = 0.133753
+  Time: 86.586500 seconds
+  Bounding Box: left = 0.509561, top = -0.000098, right = 0.640331, bottom = 0.134240
+  Time: 86.711625 seconds
+  Bounding Box: left = 0.510396, top = -0.000001, right = 0.639731, bottom = 0.134407
+  Time: 86.836750 seconds
+  Bounding Box: left = 0.509942, top = -0.000012, right = 0.640258, bottom = 0.134758
+  Time: 86.961875 seconds
+  Bounding Box: left = 0.509263, top = 0.000305, right = 0.640586, bottom = 0.133880
+  Time: 87.087000 seconds
+  Bounding Box: left = 0.508998, top = 0.000352, right = 0.640188, bottom = 0.133905
+  Time: 87.212125 seconds
+  Bounding Box: left = 0.508205, top = 0.000560, right = 0.640195, bottom = 0.133622
+  Time: 87.337250 seconds
+  Bounding Box: left = 0.508744, top = 0.000865, right = 0.639583, bottom = 0.133243
+  Time: 87.462375 seconds
+  Bounding Box: left = 0.509396, top = 0.000401, right = 0.639599, bottom = 0.134129
+  Time: 87.587500 seconds
+  Bounding Box: left = 0.508956, top = 0.000180, right = 0.639991, bottom = 0.134547
+  Time: 87.712625 seconds
+  Bounding Box: left = 0.509875, top = 0.000148, right = 0.639645, bottom = 0.134620
+
+Object: packaged goods
+Confidence: 0.600479
+Duration: 7.382374999999996 seconds
+Frames:
+  Time: 80.330250 seconds
+  Bounding Box: left = 0.853723, top = 0.794057, right = 0.999527, bottom = 0.883191
+  Time: 80.455375 seconds
+  Bounding Box: left = 0.854017, top = 0.794050, right = 0.999841, bottom = 0.883020
+  Time: 80.580500 seconds
+  Bounding Box: left = 0.853226, top = 0.794343, right = 0.999504, bottom = 0.883195
+  Time: 80.705625 seconds
+  Bounding Box: left = 0.854728, top = 0.794646, right = 0.998960, bottom = 0.882348
+  Time: 80.830750 seconds
+  Bounding Box: left = 0.854834, top = 0.793537, right = 0.999531, bottom = 0.882765
+  Time: 80.955875 seconds
+  Bounding Box: left = 0.854835, top = 0.793695, right = 0.999673, bottom = 0.881894
+  Time: 81.081000 seconds
+  Bounding Box: left = 0.854216, top = 0.793465, right = 0.999889, bottom = 0.882725
+  Time: 81.206125 seconds
+  Bounding Box: left = 0.853416, top = 0.794138, right = 0.999835, bottom = 0.882801
+  Time: 81.331250 seconds
+  Bounding Box: left = 0.853888, top = 0.794775, right = 0.999763, bottom = 0.882584
+  Time: 81.456375 seconds
+  Bounding Box: left = 0.854781, top = 0.794393, right = 0.999601, bottom = 0.882270
+  Time: 81.581500 seconds
+  Bounding Box: left = 0.854817, top = 0.793722, right = 0.999921, bottom = 0.882197
+  Time: 81.706625 seconds
+  Bounding Box: left = 0.854663, top = 0.793802, right = 1.000090, bottom = 0.881879
+  Time: 81.831750 seconds
+  Bounding Box: left = 0.854555, top = 0.794195, right = 1.000091, bottom = 0.881709
+  Time: 81.956875 seconds
+  Bounding Box: left = 0.855262, top = 0.794070, right = 0.999889, bottom = 0.881769
+  Time: 82.082000 seconds
+  Bounding Box: left = 0.854285, top = 0.794009, right = 1.000213, bottom = 0.882651
+  Time: 82.207125 seconds
+  Bounding Box: left = 0.852937, top = 0.793764, right = 1.000275, bottom = 0.883399
+  Time: 82.332250 seconds
+  Bounding Box: left = 0.853861, top = 0.794785, right = 0.999344, bottom = 0.883065
+  Time: 82.457375 seconds
+  Bounding Box: left = 0.854057, top = 0.794731, right = 0.999704, bottom = 0.882759
+  Time: 82.582500 seconds
+  Bounding Box: left = 0.854718, top = 0.794812, right = 0.999797, bottom = 0.882223
+  Time: 82.707625 seconds
+  Bounding Box: left = 0.854495, top = 0.794209, right = 1.000079, bottom = 0.882199
+  Time: 82.832750 seconds
+  Bounding Box: left = 0.854560, top = 0.794393, right = 1.000062, bottom = 0.881990
+  Time: 82.957875 seconds
+  Bounding Box: left = 0.854224, top = 0.793616, right = 1.000121, bottom = 0.882434
+  Time: 83.083000 seconds
+  Bounding Box: left = 0.854193, top = 0.793430, right = 1.000028, bottom = 0.882508
+  Time: 83.208125 seconds
+  Bounding Box: left = 0.853490, top = 0.793077, right = 1.000135, bottom = 0.883120
+  Time: 83.333250 seconds
+  Bounding Box: left = 0.853613, top = 0.793047, right = 0.999935, bottom = 0.882943
+  Time: 83.458375 seconds
+  Bounding Box: left = 0.853539, top = 0.792502, right = 0.999950, bottom = 0.883067
+  Time: 83.583500 seconds
+  Bounding Box: left = 0.853850, top = 0.793100, right = 0.999889, bottom = 0.882823
+  Time: 83.708625 seconds
+  Bounding Box: left = 0.853491, top = 0.793556, right = 1.000054, bottom = 0.883012
+  Time: 83.833750 seconds
+  Bounding Box: left = 0.852905, top = 0.793702, right = 1.000121, bottom = 0.883580
+  Time: 83.958875 seconds
+  Bounding Box: left = 0.853273, top = 0.793634, right = 0.999890, bottom = 0.883896
+  Time: 84.084000 seconds
+  Bounding Box: left = 0.853501, top = 0.793787, right = 0.999904, bottom = 0.883928
+  Time: 84.209125 seconds
+  Bounding Box: left = 0.853792, top = 0.794356, right = 0.999929, bottom = 0.883293
+  Time: 84.334250 seconds
+  Bounding Box: left = 0.854149, top = 0.794381, right = 0.999949, bottom = 0.883577
+  Time: 84.459375 seconds
+  Bounding Box: left = 0.854121, top = 0.794096, right = 1.000055, bottom = 0.883749
+  Time: 84.584500 seconds
+  Bounding Box: left = 0.853623, top = 0.794151, right = 1.000161, bottom = 0.883825
+  Time: 84.709625 seconds
+  Bounding Box: left = 0.854266, top = 0.794426, right = 0.999772, bottom = 0.883440
+  Time: 84.834750 seconds
+  Bounding Box: left = 0.853153, top = 0.793927, right = 1.000187, bottom = 0.883735
+  Time: 84.959875 seconds
+  Bounding Box: left = 0.853074, top = 0.793798, right = 1.000000, bottom = 0.883190
+  Time: 85.085000 seconds
+  Bounding Box: left = 0.853559, top = 0.793816, right = 0.999834, bottom = 0.882878
+  Time: 85.210125 seconds
+  Bounding Box: left = 0.853285, top = 0.793688, right = 1.000013, bottom = 0.883055
+  Time: 85.335250 seconds
+  Bounding Box: left = 0.853417, top = 0.793658, right = 0.999965, bottom = 0.882761
+  Time: 85.460375 seconds
+  Bounding Box: left = 0.854777, top = 0.792857, right = 0.999470, bottom = 0.882413
+  Time: 85.585500 seconds
+  Bounding Box: left = 0.855070, top = 0.793540, right = 0.999398, bottom = 0.882089
+  Time: 85.710625 seconds
+  Bounding Box: left = 0.854933, top = 0.794066, right = 0.999625, bottom = 0.882173
+  Time: 85.835750 seconds
+  Bounding Box: left = 0.854361, top = 0.793915, right = 0.999814, bottom = 0.882473
+  Time: 85.960875 seconds
+  Bounding Box: left = 0.854705, top = 0.793884, right = 0.999742, bottom = 0.881836
+  Time: 86.086000 seconds
+  Bounding Box: left = 0.854599, top = 0.793755, right = 0.999786, bottom = 0.881664
+  Time: 86.211125 seconds
+  Bounding Box: left = 0.853932, top = 0.792950, right = 1.000076, bottom = 0.882196
+  Time: 86.336250 seconds
+  Bounding Box: left = 0.854136, top = 0.793632, right = 0.999815, bottom = 0.881963
+  Time: 86.461375 seconds
+  Bounding Box: left = 0.853891, top = 0.793913, right = 0.999976, bottom = 0.882021
+  Time: 86.586500 seconds
+  Bounding Box: left = 0.853663, top = 0.793558, right = 1.000018, bottom = 0.882361
+  Time: 86.711625 seconds
+  Bounding Box: left = 0.854012, top = 0.793652, right = 0.999655, bottom = 0.882056
+  Time: 86.836750 seconds
+  Bounding Box: left = 0.853996, top = 0.793618, right = 0.999708, bottom = 0.882186
+  Time: 86.961875 seconds
+  Bounding Box: left = 0.854219, top = 0.793521, right = 0.999417, bottom = 0.882669
+  Time: 87.087000 seconds
+  Bounding Box: left = 0.853792, top = 0.793519, right = 0.999349, bottom = 0.882721
+  Time: 87.212125 seconds
+  Bounding Box: left = 0.854952, top = 0.794514, right = 0.999270, bottom = 0.882673
+  Time: 87.337250 seconds
+  Bounding Box: left = 0.854734, top = 0.794891, right = 0.999791, bottom = 0.882713
+  Time: 87.462375 seconds
+  Bounding Box: left = 0.855081, top = 0.794917, right = 0.999871, bottom = 0.882979
+  Time: 87.587500 seconds
+  Bounding Box: left = 0.855070, top = 0.795237, right = 0.999823, bottom = 0.882796
+  Time: 87.712625 seconds
+  Bounding Box: left = 0.855147, top = 0.795564, right = 0.999656, bottom = 0.882481
+
+Object: glasses
+Confidence: 0.625038
+Duration: 7.382374999999996 seconds
+Frames:
+  Time: 80.330250 seconds
+  Bounding Box: left = 0.382990, top = 0.226626, right = 0.522594, bottom = 0.296405
+  Time: 80.455375 seconds
+  Bounding Box: left = 0.381898, top = 0.222777, right = 0.523714, bottom = 0.293980
+  Time: 80.580500 seconds
+  Bounding Box: left = 0.384720, top = 0.223617, right = 0.524412, bottom = 0.293947
+  Time: 80.705625 seconds
+  Bounding Box: left = 0.385235, top = 0.226590, right = 0.527954, bottom = 0.293318
+  Time: 80.830750 seconds
+  Bounding Box: left = 0.388144, top = 0.225809, right = 0.526596, bottom = 0.296447
+  Time: 80.955875 seconds
+  Bounding Box: left = 0.389449, top = 0.225341, right = 0.526225, bottom = 0.296045
+  Time: 81.081000 seconds
+  Bounding Box: left = 0.386491, top = 0.226079, right = 0.526824, bottom = 0.294593
+  Time: 81.206125 seconds
+  Bounding Box: left = 0.385742, top = 0.225033, right = 0.525502, bottom = 0.295327
+  Time: 81.331250 seconds
+  Bounding Box: left = 0.383279, top = 0.223893, right = 0.526810, bottom = 0.293557
+  Time: 81.456375 seconds
+  Bounding Box: left = 0.384866, top = 0.223462, right = 0.526865, bottom = 0.292378
+  Time: 81.581500 seconds
+  Bounding Box: left = 0.387749, top = 0.221950, right = 0.526069, bottom = 0.293468
+  Time: 81.706625 seconds
+  Bounding Box: left = 0.388771, top = 0.221172, right = 0.527055, bottom = 0.292052
+  Time: 81.831750 seconds
+  Bounding Box: left = 0.390196, top = 0.221527, right = 0.528477, bottom = 0.292364
+  Time: 81.956875 seconds
+  Bounding Box: left = 0.390866, top = 0.220999, right = 0.529148, bottom = 0.291832
+  Time: 82.082000 seconds
+  Bounding Box: left = 0.390584, top = 0.221594, right = 0.528865, bottom = 0.292428
+  Time: 82.207125 seconds
+  Bounding Box: left = 0.388157, top = 0.221495, right = 0.529221, bottom = 0.293789
+  Time: 82.332250 seconds
+  Bounding Box: left = 0.386437, top = 0.222960, right = 0.530696, bottom = 0.293364
+  Time: 82.457375 seconds
+  Bounding Box: left = 0.387407, top = 0.222916, right = 0.529547, bottom = 0.293881
+  Time: 82.582500 seconds
+  Bounding Box: left = 0.387770, top = 0.222660, right = 0.528892, bottom = 0.293619
+  Time: 82.707625 seconds
+  Bounding Box: left = 0.387111, top = 0.222649, right = 0.528844, bottom = 0.293361
+  Time: 82.832750 seconds
+  Bounding Box: left = 0.387305, top = 0.223205, right = 0.528734, bottom = 0.294030
+  Time: 82.957875 seconds
+  Bounding Box: left = 0.386942, top = 0.223583, right = 0.529124, bottom = 0.293893
+  Time: 83.083000 seconds
+  Bounding Box: left = 0.387451, top = 0.223230, right = 0.526742, bottom = 0.294796
+  Time: 83.208125 seconds
+  Bounding Box: left = 0.384794, top = 0.221919, right = 0.526705, bottom = 0.294905
+  Time: 83.333250 seconds
+  Bounding Box: left = 0.383891, top = 0.221876, right = 0.523708, bottom = 0.294807
+  Time: 83.458375 seconds
+  Bounding Box: left = 0.382739, top = 0.222379, right = 0.522850, bottom = 0.293646
+  Time: 83.583500 seconds
+  Bounding Box: left = 0.382391, top = 0.221723, right = 0.522775, bottom = 0.293151
+  Time: 83.708625 seconds
+  Bounding Box: left = 0.383490, top = 0.221609, right = 0.523330, bottom = 0.293354
+  Time: 83.833750 seconds
+  Bounding Box: left = 0.383396, top = 0.222490, right = 0.524345, bottom = 0.293756
+  Time: 83.958875 seconds
+  Bounding Box: left = 0.384151, top = 0.222698, right = 0.525847, bottom = 0.294356
+  Time: 84.084000 seconds
+  Bounding Box: left = 0.384719, top = 0.222759, right = 0.529028, bottom = 0.293091
+  Time: 84.209125 seconds
+  Bounding Box: left = 0.388359, top = 0.222263, right = 0.528822, bottom = 0.293848
+  Time: 84.334250 seconds
+  Bounding Box: left = 0.389362, top = 0.221783, right = 0.528494, bottom = 0.294404
+  Time: 84.459375 seconds
+  Bounding Box: left = 0.390029, top = 0.222122, right = 0.529096, bottom = 0.294372
+  Time: 84.584500 seconds
+  Bounding Box: left = 0.389748, top = 0.222218, right = 0.528811, bottom = 0.294442
+  Time: 84.709625 seconds
+  Bounding Box: left = 0.389606, top = 0.221379, right = 0.529213, bottom = 0.295057
+  Time: 84.834750 seconds
+  Bounding Box: left = 0.389327, top = 0.221900, right = 0.529154, bottom = 0.295516
+  Time: 84.959875 seconds
+  Bounding Box: left = 0.387660, top = 0.221603, right = 0.527648, bottom = 0.293885
+  Time: 85.085000 seconds
+  Bounding Box: left = 0.385871, top = 0.221183, right = 0.526215, bottom = 0.293184
+  Time: 85.210125 seconds
+  Bounding Box: left = 0.384481, top = 0.220767, right = 0.525086, bottom = 0.292974
+  Time: 85.335250 seconds
+  Bounding Box: left = 0.383435, top = 0.213946, right = 0.520714, bottom = 0.293637
+  Time: 85.460375 seconds
+  Bounding Box: left = 0.381819, top = 0.213384, right = 0.519304, bottom = 0.292587
+  Time: 85.585500 seconds
+  Bounding Box: left = 0.379758, top = 0.209917, right = 0.520408, bottom = 0.291329
+  Time: 85.710625 seconds
+  Bounding Box: left = 0.379086, top = 0.199520, right = 0.515975, bottom = 0.291220
+  Time: 85.835750 seconds
+  Bounding Box: left = 0.376867, top = 0.197690, right = 0.513598, bottom = 0.289359
+  Time: 85.960875 seconds
+  Bounding Box: left = 0.374943, top = 0.196372, right = 0.511662, bottom = 0.288038
+  Time: 86.086000 seconds
+  Bounding Box: left = 0.375663, top = 0.204070, right = 0.510808, bottom = 0.286064
+  Time: 86.211125 seconds
+  Bounding Box: left = 0.376269, top = 0.206881, right = 0.510963, bottom = 0.288351
+  Time: 86.336250 seconds
+  Bounding Box: left = 0.376882, top = 0.208539, right = 0.511852, bottom = 0.289495
+  Time: 86.461375 seconds
+  Bounding Box: left = 0.377244, top = 0.210131, right = 0.512664, bottom = 0.289273
+  Time: 86.586500 seconds
+  Bounding Box: left = 0.377948, top = 0.211127, right = 0.513123, bottom = 0.290292
+  Time: 86.711625 seconds
+  Bounding Box: left = 0.378156, top = 0.210895, right = 0.514514, bottom = 0.289053
+  Time: 86.836750 seconds
+  Bounding Box: left = 0.380168, top = 0.205235, right = 0.519243, bottom = 0.285095
+  Time: 86.961875 seconds
+  Bounding Box: left = 0.384716, top = 0.215048, right = 0.526377, bottom = 0.288266
+  Time: 87.087000 seconds
+  Bounding Box: left = 0.387900, top = 0.216688, right = 0.529324, bottom = 0.290272
+  Time: 87.212125 seconds
+  Bounding Box: left = 0.389946, top = 0.219074, right = 0.531354, bottom = 0.292684
+  Time: 87.337250 seconds
+  Bounding Box: left = 0.389074, top = 0.220962, right = 0.530480, bottom = 0.294573
+  Time: 87.462375 seconds
+  Bounding Box: left = 0.388807, top = 0.223488, right = 0.529400, bottom = 0.295875
+  Time: 87.587500 seconds
+  Bounding Box: left = 0.387146, top = 0.223887, right = 0.528756, bottom = 0.294489
+  Time: 87.712625 seconds
+  Bounding Box: left = 0.385993, top = 0.223440, right = 0.526951, bottom = 0.293895
+
+Object: packaged goods
+Confidence: 0.693591
+Duration: 8.883875000000003 seconds
+Frames:
+  Time: 87.837750 seconds
+  Bounding Box: left = 0.000520, top = 0.000000, right = 0.995540, bottom = 1.000000
+  Time: 87.962875 seconds
+  Bounding Box: left = 0.000077, top = 0.000000, right = 0.992515, bottom = 1.000000
+  Time: 88.088000 seconds
+  Bounding Box: left = -0.000017, top = 0.000000, right = 0.991731, bottom = 1.000000
+  Time: 88.213125 seconds
+  Bounding Box: left = 0.003453, top = 0.000000, right = 0.994203, bottom = 1.000000
+  Time: 88.338250 seconds
+  Bounding Box: left = 0.002001, top = 0.000000, right = 0.994583, bottom = 1.000000
+  Time: 88.463375 seconds
+  Bounding Box: left = 0.002019, top = 0.000077, right = 0.993936, bottom = 0.999564
+  Time: 88.588500 seconds
+  Bounding Box: left = 0.001184, top = -0.000081, right = 0.990994, bottom = 0.999884
+  Time: 88.713625 seconds
+  Bounding Box: left = 0.000601, top = 0.000680, right = 0.992053, bottom = 0.999809
+  Time: 88.838750 seconds
+  Bounding Box: left = -0.000055, top = 0.000184, right = 0.995564, bottom = 1.000123
+  Time: 88.963875 seconds
+  Bounding Box: left = -0.000140, top = 0.000078, right = 0.997261, bottom = 1.000074
+  Time: 89.089000 seconds
+  Bounding Box: left = 0.000213, top = 0.001316, right = 0.999503, bottom = 0.993826
+  Time: 89.214125 seconds
+  Bounding Box: left = 0.001595, top = -0.000868, right = 0.999315, bottom = 0.997071
+  Time: 89.339250 seconds
+  Bounding Box: left = 0.002593, top = 0.000932, right = 0.999928, bottom = 0.990622
+  Time: 89.464375 seconds
+  Bounding Box: left = 0.002215, top = 0.000379, right = 1.000080, bottom = 0.987116
+  Time: 89.589500 seconds
+  Bounding Box: left = 0.000929, top = -0.000517, right = 1.000213, bottom = 0.986431
+  Time: 89.714625 seconds
+  Bounding Box: left = 0.001872, top = 0.013129, right = 0.999834, bottom = 0.924034
+  Time: 89.839750 seconds
+  Bounding Box: left = 0.002384, top = -0.007118, right = 0.997905, bottom = 0.948265
+  Time: 89.964875 seconds
+  Bounding Box: left = 0.001326, top = 0.008977, right = 0.997995, bottom = 0.890019
+  Time: 90.090000 seconds
+  Bounding Box: left = 0.000568, top = 0.002572, right = 0.998212, bottom = 0.860925
+  Time: 90.215125 seconds
+  Bounding Box: left = 0.001493, top = -0.007514, right = 0.999183, bottom = 0.867520
+  Time: 90.340250 seconds
+  Bounding Box: left = 0.001950, top = -0.018409, right = 0.997100, bottom = 0.926068
+  Time: 90.465375 seconds
+  Bounding Box: left = 0.000636, top = 0.002684, right = 0.998476, bottom = 0.908511
+  Time: 90.590500 seconds
+  Bounding Box: left = 0.000243, top = -0.003588, right = 0.998938, bottom = 0.938185
+  Time: 90.715625 seconds
+  Bounding Box: left = -0.000133, top = 0.025137, right = 0.999777, bottom = 0.853635
+  Time: 90.840750 seconds
+  Bounding Box: left = -0.000035, top = -0.006807, right = 0.999959, bottom = 0.898558
+  Time: 90.965875 seconds
+  Bounding Box: left = 0.001446, top = -0.000963, right = 0.999731, bottom = 0.890665
+  Time: 91.091000 seconds
+  Bounding Box: left = 0.000480, top = -0.001038, right = 1.000027, bottom = 0.891247
+  Time: 91.216125 seconds
+  Bounding Box: left = 0.000128, top = 0.072521, right = 1.000097, bottom = 0.816144
+  Time: 91.341250 seconds
+  Bounding Box: left = 0.000076, top = 0.059155, right = 0.999793, bottom = 0.829927
+  Time: 91.466375 seconds
+  Bounding Box: left = -0.000031, top = 0.094456, right = 0.999802, bottom = 0.822841
+  Time: 91.591500 seconds
+  Bounding Box: left = 0.000731, top = 0.064911, right = 0.999751, bottom = 0.877112
+  Time: 91.716625 seconds
+  Bounding Box: left = 0.003887, top = 0.047078, right = 0.999333, bottom = 0.907872
+  Time: 91.841750 seconds
+  Bounding Box: left = 0.002168, top = 0.068025, right = 1.000502, bottom = 0.916355
+  Time: 91.966875 seconds
+  Bounding Box: left = 0.005689, top = 0.051152, right = 0.999515, bottom = 0.958852
+  Time: 92.092000 seconds
+  Bounding Box: left = 0.005892, top = 0.034358, right = 1.000164, bottom = 0.974400
+  Time: 92.217125 seconds
+  Bounding Box: left = 0.005634, top = 0.025420, right = 1.000371, bottom = 0.976182
+  Time: 92.342250 seconds
+  Bounding Box: left = 0.005728, top = 0.034024, right = 1.000223, bottom = 0.986809
+  Time: 92.467375 seconds
+  Bounding Box: left = 0.001412, top = 0.008671, right = 1.001031, bottom = 1.000199
+  Time: 92.592500 seconds
+  Bounding Box: left = 0.000214, top = 0.003086, right = 1.000188, bottom = 0.996891
+  Time: 92.717625 seconds
+  Bounding Box: left = 0.000003, top = 0.005286, right = 0.998978, bottom = 0.997815
+  Time: 92.842750 seconds
+  Bounding Box: left = -0.000470, top = 0.114424, right = 0.999459, bottom = 0.969049
+  Time: 92.967875 seconds
+  Bounding Box: left = -0.000277, top = 0.101804, right = 0.999614, bottom = 0.996815
+  Time: 93.093000 seconds
+  Bounding Box: left = -0.000186, top = 0.078539, right = 0.999806, bottom = 1.007193
+  Time: 93.218125 seconds
+  Bounding Box: left = 0.000667, top = 0.020900, right = 0.999761, bottom = 1.015960
+  Time: 93.343250 seconds
+  Bounding Box: left = 0.004036, top = 0.075109, right = 0.999316, bottom = 0.984649
+  Time: 93.468375 seconds
+  Bounding Box: left = 0.001108, top = 0.017376, right = 1.000781, bottom = 1.008122
+  Time: 93.593500 seconds
+  Bounding Box: left = 0.000414, top = 0.006372, right = 1.000391, bottom = 1.000887
+  Time: 93.718625 seconds
+  Bounding Box: left = 0.004025, top = -0.001616, right = 0.998733, bottom = 0.998005
+  Time: 93.843750 seconds
+  Bounding Box: left = 0.000852, top = 0.002040, right = 1.000485, bottom = 0.995422
+  Time: 93.968875 seconds
+  Bounding Box: left = 0.004172, top = -0.001606, right = 0.998137, bottom = 0.997629
+  Time: 94.094000 seconds
+  Bounding Box: left = 0.000716, top = 0.005505, right = 1.000297, bottom = 0.996822
+  Time: 94.219125 seconds
+  Bounding Box: left = 0.000128, top = 0.006018, right = 1.000099, bottom = 0.999143
+  Time: 94.344250 seconds
+  Bounding Box: left = -0.000070, top = 0.005795, right = 0.999928, bottom = 1.000172
+  Time: 94.469375 seconds
+  Bounding Box: left = 0.003283, top = 0.001589, right = 0.998973, bottom = 1.001200
+  Time: 94.594500 seconds
+  Bounding Box: left = 0.004595, top = 0.000477, right = 0.999649, bottom = 1.000017
+  Time: 94.719625 seconds
+  Bounding Box: left = 0.003051, top = 0.002934, right = 1.000547, bottom = 0.999134
+  Time: 94.844750 seconds
+  Bounding Box: left = 0.004709, top = 0.000516, right = 0.999904, bottom = 1.000253
+  Time: 94.969875 seconds
+  Bounding Box: left = 0.005568, top = 0.001773, right = 0.995361, bottom = 0.999653
+  Time: 95.095000 seconds
+  Bounding Box: left = 0.003914, top = 0.001229, right = 0.997605, bottom = 0.995924
+  Time: 95.220125 seconds
+  Bounding Box: left = 0.004311, top = -0.000113, right = 0.997796, bottom = 0.995796
+  Time: 95.345250 seconds
+  Bounding Box: left = 0.003833, top = -0.000354, right = 0.998150, bottom = 0.995384
+  Time: 95.470375 seconds
+  Bounding Box: left = 0.002759, top = -0.001035, right = 0.998487, bottom = 0.998491
+  Time: 95.595500 seconds
+  Bounding Box: left = 0.002863, top = -0.000400, right = 0.999389, bottom = 0.999567
+  Time: 95.720625 seconds
+  Bounding Box: left = 0.005208, top = 0.000035, right = 0.997088, bottom = 1.000033
+  Time: 95.845750 seconds
+  Bounding Box: left = 0.003286, top = 0.000200, right = 0.999279, bottom = 1.000200
+  Time: 95.970875 seconds
+  Bounding Box: left = 0.003443, top = 0.000210, right = 0.999827, bottom = 1.000210
+  Time: 96.096000 seconds
+  Bounding Box: left = 0.006006, top = 0.000156, right = 0.997566, bottom = 1.000155
+  Time: 96.221125 seconds
+  Bounding Box: left = 0.006341, top = 0.000091, right = 0.998345, bottom = 1.000091
+  Time: 96.346250 seconds
+  Bounding Box: left = 0.006097, top = 0.000041, right = 0.999783, bottom = 1.000041
+  Time: 96.471375 seconds
+  Bounding Box: left = 0.007314, top = 0.005937, right = 1.001060, bottom = 1.005937
+  Time: 96.596500 seconds
+  Bounding Box: left = 0.004265, top = 0.003358, right = 1.001178, bottom = 1.003358
+  Time: 96.721625 seconds
+  Bounding Box: left = 0.001085, top = 0.001423, right = 1.000871, bottom = 1.001423
+
+Object: building
+Confidence: 0.798228
+Duration: 5.755750000000006 seconds
+Frames:
+  Time: 103.103000 seconds
+  Bounding Box: left = 0.857183, top = 0.873805, right = 0.999329, bottom = 0.997696
+  Time: 103.228125 seconds
+  Bounding Box: left = 0.860067, top = 0.870354, right = 0.999273, bottom = 0.998524
+  Time: 103.353250 seconds
+  Bounding Box: left = 0.857171, top = 0.865782, right = 0.998465, bottom = 0.998570
+  Time: 103.478375 seconds
+  Bounding Box: left = 0.854520, top = 0.861223, right = 0.999000, bottom = 0.998703
+  Time: 103.603500 seconds
+  Bounding Box: left = 0.853349, top = 0.857172, right = 0.999518, bottom = 0.998643
+  Time: 103.728625 seconds
+  Bounding Box: left = 0.854249, top = 0.856136, right = 0.999365, bottom = 0.997864
+  Time: 103.853750 seconds
+  Bounding Box: left = 0.857479, top = 0.850587, right = 0.998992, bottom = 0.997866
+  Time: 103.978875 seconds
+  Bounding Box: left = 0.857659, top = 0.848680, right = 0.999624, bottom = 0.996952
+  Time: 104.104000 seconds
+  Bounding Box: left = 0.853706, top = 0.844440, right = 1.000347, bottom = 0.998462
+  Time: 104.229125 seconds
+  Bounding Box: left = 0.851848, top = 0.842595, right = 0.999624, bottom = 0.998231
+  Time: 104.354250 seconds
+  Bounding Box: left = 0.848983, top = 0.841255, right = 1.000101, bottom = 0.998254
+  Time: 104.479375 seconds
+  Bounding Box: left = 0.851771, top = 0.839643, right = 0.998080, bottom = 0.997976
+  Time: 104.604500 seconds
+  Bounding Box: left = 0.853083, top = 0.834284, right = 0.998641, bottom = 0.999167
+  Time: 104.729625 seconds
+  Bounding Box: left = 0.852070, top = 0.829560, right = 0.999527, bottom = 0.999609
+  Time: 104.854750 seconds
+  Bounding Box: left = 0.851450, top = 0.823961, right = 0.999414, bottom = 0.999618
+  Time: 104.979875 seconds
+  Bounding Box: left = 0.850828, top = 0.824417, right = 0.999407, bottom = 0.997962
+  Time: 105.105000 seconds
+  Bounding Box: left = 0.849115, top = 0.818288, right = 0.999722, bottom = 0.999287
+  Time: 105.230125 seconds
+  Bounding Box: left = 0.848612, top = 0.813539, right = 0.999013, bottom = 0.998259
+  Time: 105.355250 seconds
+  Bounding Box: left = 0.848936, top = 0.808699, right = 0.998286, bottom = 0.997653
+  Time: 105.480375 seconds
+  Bounding Box: left = 0.850002, top = 0.804591, right = 0.996728, bottom = 0.996874
+  Time: 105.605500 seconds
+  Bounding Box: left = 0.849887, top = 0.802563, right = 0.996300, bottom = 0.995067
+  Time: 105.730625 seconds
+  Bounding Box: left = 0.851642, top = 0.796923, right = 0.996793, bottom = 0.994325
+  Time: 105.855750 seconds
+  Bounding Box: left = 0.851745, top = 0.792831, right = 0.997368, bottom = 0.995086
+  Time: 105.980875 seconds
+  Bounding Box: left = 0.847074, top = 0.780846, right = 0.998807, bottom = 0.998826
+  Time: 106.106000 seconds
+  Bounding Box: left = 0.844349, top = 0.778660, right = 0.998720, bottom = 0.996744
+  Time: 106.231125 seconds
+  Bounding Box: left = 0.844937, top = 0.773613, right = 0.997093, bottom = 0.996589
+  Time: 106.356250 seconds
+  Bounding Box: left = 0.846581, top = 0.768933, right = 0.996211, bottom = 0.995888
+  Time: 106.481375 seconds
+  Bounding Box: left = 0.846282, top = 0.766211, right = 0.996467, bottom = 0.991894
+  Time: 106.606500 seconds
+  Bounding Box: left = 0.844208, top = 0.763210, right = 0.996529, bottom = 0.988760
+  Time: 106.731625 seconds
+  Bounding Box: left = 0.843217, top = 0.760166, right = 0.996453, bottom = 0.982995
+  Time: 106.856750 seconds
+  Bounding Box: left = 0.840768, top = 0.752321, right = 0.997009, bottom = 0.979968
+  Time: 106.981875 seconds
+  Bounding Box: left = 0.851535, top = 0.758115, right = 0.995963, bottom = 0.959017
+  Time: 107.107000 seconds
+  Bounding Box: left = 0.840770, top = 0.743936, right = 0.999292, bottom = 0.967502
+  Time: 107.232125 seconds
+  Bounding Box: left = 0.840400, top = 0.738308, right = 0.998988, bottom = 0.961916
+  Time: 107.357250 seconds
+  Bounding Box: left = 0.848927, top = 0.741767, right = 0.996827, bottom = 0.934609
+  Time: 107.482375 seconds
+  Bounding Box: left = 0.854924, top = 0.737350, right = 0.998588, bottom = 0.923512
+  Time: 107.607500 seconds
+  Bounding Box: left = 0.854667, top = 0.730821, right = 1.000580, bottom = 0.915839
+  Time: 107.732625 seconds
+  Bounding Box: left = 0.854772, top = 0.727407, right = 1.000725, bottom = 0.909796
+  Time: 107.857750 seconds
+  Bounding Box: left = 0.854890, top = 0.723468, right = 0.999979, bottom = 0.902618
+  Time: 107.982875 seconds
+  Bounding Box: left = 0.854021, top = 0.722173, right = 0.999954, bottom = 0.895080
+  Time: 108.108000 seconds
+  Bounding Box: left = 0.853130, top = 0.715394, right = 1.000167, bottom = 0.885380
+  Time: 108.233125 seconds
+  Bounding Box: left = 0.850936, top = 0.706972, right = 1.000215, bottom = 0.880618
+  Time: 108.358250 seconds
+  Bounding Box: left = 0.851257, top = 0.702157, right = 0.998824, bottom = 0.873373
+  Time: 108.483375 seconds
+  Bounding Box: left = 0.852206, top = 0.697001, right = 0.999052, bottom = 0.867418
+  Time: 108.608500 seconds
+  Bounding Box: left = 0.860318, top = 0.694363, right = 0.997065, bottom = 0.859183
+  Time: 108.733625 seconds
+  Bounding Box: left = 0.860302, top = 0.688460, right = 0.998558, bottom = 0.855306
+  Time: 108.858750 seconds
+  Bounding Box: left = 0.860324, top = 0.684562, right = 0.999814, bottom = 0.850092
+
+Object: building
+Confidence: 0.846627
+Duration: 9.259249999999994 seconds
+Frames:
+  Time: 103.228125 seconds
+  Bounding Box: left = 0.000908, top = 0.834449, right = 0.133738, bottom = 0.997612
+  Time: 103.353250 seconds
+  Bounding Box: left = 0.001537, top = 0.830116, right = 0.132552, bottom = 0.996500
+  Time: 103.478375 seconds
+  Bounding Box: left = 0.002198, top = 0.822501, right = 0.132367, bottom = 0.997107
+  Time: 103.603500 seconds
+  Bounding Box: left = 0.002088, top = 0.816625, right = 0.133620, bottom = 0.996557
+  Time: 103.728625 seconds
+  Bounding Box: left = 0.000671, top = 0.807381, right = 0.136622, bottom = 0.996611
+  Time: 103.853750 seconds
+  Bounding Box: left = 0.001535, top = 0.805439, right = 0.134358, bottom = 0.995492
+  Time: 103.978875 seconds
+  Bounding Box: left = 0.001121, top = 0.809029, right = 0.134140, bottom = 0.995198
+  Time: 104.104000 seconds
+  Bounding Box: left = 0.000166, top = 0.802503, right = 0.135462, bottom = 0.997237
+  Time: 104.229125 seconds
+  Bounding Box: left = -0.000456, top = 0.795384, right = 0.137726, bottom = 0.999427
+  Time: 104.354250 seconds
+  Bounding Box: left = -0.000038, top = 0.790979, right = 0.138179, bottom = 0.999847
+  Time: 104.479375 seconds
+  Bounding Box: left = 0.000025, top = 0.789908, right = 0.138932, bottom = 0.999065
+  Time: 104.604500 seconds
+  Bounding Box: left = 0.000290, top = 0.790234, right = 0.138521, bottom = 0.998476
+  Time: 104.729625 seconds
+  Bounding Box: left = 0.000109, top = 0.788931, right = 0.138794, bottom = 0.999349
+  Time: 104.854750 seconds
+  Bounding Box: left = 0.000373, top = 0.786454, right = 0.137455, bottom = 1.000050
+  Time: 104.979875 seconds
+  Bounding Box: left = 0.000503, top = 0.783449, right = 0.135192, bottom = 0.999120
+  Time: 105.105000 seconds
+  Bounding Box: left = 0.000030, top = 0.781259, right = 0.134373, bottom = 0.999488
+  Time: 105.230125 seconds
+  Bounding Box: left = -0.000088, top = 0.779711, right = 0.133443, bottom = 0.998196
+  Time: 105.355250 seconds
+  Bounding Box: left = -0.000834, top = 0.761088, right = 0.140552, bottom = 0.999116
+  Time: 105.480375 seconds
+  Bounding Box: left = 0.002185, top = 0.765728, right = 0.133053, bottom = 0.992451
+  Time: 105.605500 seconds
+  Bounding Box: left = -0.000646, top = 0.751189, right = 0.138103, bottom = 0.996478
+  Time: 105.730625 seconds
+  Bounding Box: left = -0.000613, top = 0.744788, right = 0.140496, bottom = 0.995930
+  Time: 105.855750 seconds
+  Bounding Box: left = 0.000085, top = 0.739613, right = 0.141233, bottom = 0.996203
+  Time: 105.980875 seconds
+  Bounding Box: left = 0.000251, top = 0.738260, right = 0.142611, bottom = 0.995807
+  Time: 106.106000 seconds
+  Bounding Box: left = 0.001719, top = 0.723971, right = 0.139864, bottom = 0.997964
+  Time: 106.231125 seconds
+  Bounding Box: left = 0.001969, top = 0.720024, right = 0.137373, bottom = 0.995978
+  Time: 106.356250 seconds
+  Bounding Box: left = 0.001497, top = 0.714976, right = 0.137195, bottom = 0.995839
+  Time: 106.481375 seconds
+  Bounding Box: left = 0.001189, top = 0.710622, right = 0.137185, bottom = 0.996926
+  Time: 106.606500 seconds
+  Bounding Box: left = 0.001268, top = 0.710123, right = 0.137080, bottom = 0.995957
+  Time: 106.731625 seconds
+  Bounding Box: left = 0.001527, top = 0.705622, right = 0.137591, bottom = 0.995297
+  Time: 106.856750 seconds
+  Bounding Box: left = 0.001738, top = 0.694475, right = 0.139935, bottom = 0.993933
+  Time: 106.981875 seconds
+  Bounding Box: left = 0.002378, top = 0.688088, right = 0.138284, bottom = 0.990073
+  Time: 107.107000 seconds
+  Bounding Box: left = 0.002199, top = 0.683518, right = 0.138654, bottom = 0.991253
+  Time: 107.232125 seconds
+  Bounding Box: left = 0.001297, top = 0.680945, right = 0.139158, bottom = 0.984652
+  Time: 107.357250 seconds
+  Bounding Box: left = 0.002698, top = 0.677713, right = 0.134290, bottom = 0.990069
+  Time: 107.482375 seconds
+  Bounding Box: left = 0.003089, top = 0.674170, right = 0.132708, bottom = 0.992792
+  Time: 107.607500 seconds
+  Bounding Box: left = 0.001662, top = 0.671613, right = 0.134750, bottom = 0.992447
+  Time: 107.732625 seconds
+  Bounding Box: left = 0.001750, top = 0.665089, right = 0.137440, bottom = 0.994595
+  Time: 107.857750 seconds
+  Bounding Box: left = 0.002560, top = 0.665591, right = 0.136926, bottom = 0.993992
+  Time: 107.982875 seconds
+  Bounding Box: left = 0.001942, top = 0.660764, right = 0.140038, bottom = 0.991031
+  Time: 108.108000 seconds
+  Bounding Box: left = 0.002079, top = 0.653344, right = 0.142443, bottom = 0.988893
+  Time: 108.233125 seconds
+  Bounding Box: left = 0.003586, top = 0.649785, right = 0.140867, bottom = 0.988859
+  Time: 108.358250 seconds
+  Bounding Box: left = 0.002834, top = 0.642042, right = 0.142486, bottom = 0.990384
+  Time: 108.483375 seconds
+  Bounding Box: left = 0.003016, top = 0.633584, right = 0.143646, bottom = 0.988375
+  Time: 108.608500 seconds
+  Bounding Box: left = 0.003488, top = 0.630539, right = 0.141890, bottom = 0.986587
+  Time: 108.733625 seconds
+  Bounding Box: left = 0.002927, top = 0.626309, right = 0.140191, bottom = 0.988488
+  Time: 108.858750 seconds
+  Bounding Box: left = 0.003142, top = 0.621528, right = 0.139800, bottom = 0.988226
+  Time: 108.983875 seconds
+  Bounding Box: left = 0.003505, top = 0.616101, right = 0.137938, bottom = 0.991130
+  Time: 109.109000 seconds
+  Bounding Box: left = 0.004211, top = 0.610496, right = 0.131963, bottom = 0.993191
+  Time: 109.234125 seconds
+  Bounding Box: left = 0.002506, top = 0.601301, right = 0.130018, bottom = 0.995255
+  Time: 109.359250 seconds
+  Bounding Box: left = 0.001604, top = 0.604089, right = 0.130449, bottom = 0.993453
+  Time: 109.484375 seconds
+  Bounding Box: left = 0.002336, top = 0.588988, right = 0.133745, bottom = 0.995434
+  Time: 109.609500 seconds
+  Bounding Box: left = 0.002770, top = 0.582532, right = 0.136137, bottom = 0.995866
+  Time: 109.734625 seconds
+  Bounding Box: left = 0.004536, top = 0.583257, right = 0.130880, bottom = 0.993281
+  Time: 109.859750 seconds
+  Bounding Box: left = 0.004263, top = 0.584409, right = 0.128543, bottom = 0.991364
+  Time: 109.984875 seconds
+  Bounding Box: left = 0.002412, top = 0.574537, right = 0.133936, bottom = 0.994144
+  Time: 110.110000 seconds
+  Bounding Box: left = 0.003251, top = 0.571878, right = 0.133127, bottom = 0.993845
+  Time: 110.235125 seconds
+  Bounding Box: left = 0.003932, top = 0.565253, right = 0.131178, bottom = 0.994026
+  Time: 110.360250 seconds
+  Bounding Box: left = 0.004016, top = 0.558691, right = 0.131218, bottom = 0.993489
+  Time: 110.485375 seconds
+  Bounding Box: left = 0.003345, top = 0.556715, right = 0.134630, bottom = 0.992484
+  Time: 110.610500 seconds
+  Bounding Box: left = 0.003253, top = 0.554539, right = 0.137877, bottom = 0.993246
+  Time: 110.735625 seconds
+  Bounding Box: left = 0.005724, top = 0.554077, right = 0.131537, bottom = 0.992400
+  Time: 110.860750 seconds
+  Bounding Box: left = 0.002794, top = 0.552532, right = 0.133739, bottom = 0.994480
+  Time: 110.985875 seconds
+  Bounding Box: left = 0.002350, top = 0.557974, right = 0.132754, bottom = 0.993080
+  Time: 111.111000 seconds
+  Bounding Box: left = 0.001397, top = 0.557414, right = 0.132282, bottom = 0.996074
+  Time: 111.236125 seconds
+  Bounding Box: left = 0.005468, top = 0.557200, right = 0.123387, bottom = 0.995583
+  Time: 111.361250 seconds
+  Bounding Box: left = 0.002426, top = 0.550188, right = 0.127848, bottom = 0.996830
+  Time: 111.486375 seconds
+  Bounding Box: left = 0.003342, top = 0.540110, right = 0.123539, bottom = 0.995394
+  Time: 111.611500 seconds
+  Bounding Box: left = 0.000857, top = 0.534358, right = 0.127871, bottom = 0.992972
+  Time: 111.736625 seconds
+  Bounding Box: left = 0.001787, top = 0.527744, right = 0.129538, bottom = 0.992801
+  Time: 111.861750 seconds
+  Bounding Box: left = 0.003110, top = 0.520889, right = 0.127012, bottom = 0.991699
+  Time: 111.986875 seconds
+  Bounding Box: left = 0.004156, top = 0.512775, right = 0.123328, bottom = 0.991826
+  Time: 112.112000 seconds
+  Bounding Box: left = 0.004179, top = 0.503920, right = 0.130898, bottom = 0.993262
+  Time: 112.237125 seconds
+  Bounding Box: left = 0.006469, top = 0.498808, right = 0.129687, bottom = 0.993424
+  Time: 112.362250 seconds
+  Bounding Box: left = 0.004621, top = 0.494184, right = 0.131525, bottom = 0.993204
+  Time: 112.487375 seconds
+  Bounding Box: left = 0.003728, top = 0.484931, right = 0.127990, bottom = 0.992108
